@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plorenansumi21.github.io/portal-web-aiyouxi-com-cn/sitemap.xml
